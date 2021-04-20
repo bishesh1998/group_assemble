@@ -1,0 +1,8 @@
+~importReference 0 Bishesh Kent Matt Pete Scott
+~importReference 0 Phuc Scott Kent Matt Pete
+~importReference 0 Novel Kent Scott Pete Matt 
+~importReference 0 Appi Kent Matt Scott Pete
+~importReference 1 Kent Novel Phuc Appi Bishesh 
+~importReference 1 Matt Phuc Appi Novel Bishesh 
+~importReference 1 Pete Phuc Bishesh Appi Novel 
+~importReference 1 Scott Novel Bishesh Phuc Appi
